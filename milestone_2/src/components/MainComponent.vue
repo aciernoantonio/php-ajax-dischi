@@ -59,7 +59,7 @@ export default {
     
     data() {
         return {
-            link: "https://flynn.boolean.careers/exercises/api/array/music ",
+            link: "http://localhost:8888/PHP/php-ajax-dischi/milestone_2/src/assets/php/db.php",
             disks: [],
             // disk: null,
         }
