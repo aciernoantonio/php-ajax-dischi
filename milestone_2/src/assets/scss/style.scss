@@ -1,0 +1,22 @@
+@import '~/node_modules/bootstrap/scss/bootstrap.scss';
+
+$headerBgColor : #2e3a46;
+$mainBgColor : #1e2d3b;
+$albumBgColor: #2e3a46;
+$albumTitleColor: #ffffff;
+$subtitleColor : #656769;
+
+#app {
+    font-family: Avenir, Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color: #2c3e50;
+  }
+
+body{
+    background-color: $mainBgColor;
+}
+
+header{
+    background-color: $headerBgColor;
+}
